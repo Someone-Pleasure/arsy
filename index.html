@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat With Arsy</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <script src="chat.js" defer></script>
+  <style>
+    /* Custom CSS for layout adjustments */
+    body {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .chat-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .chat-content {
+      flex: 1;
+      overflow-y: auto; /* Enable vertical scrolling */
+    }
+
+    nav {
+  width: 100%; /* Memastikan elemen melebar sesuai layar perangkat */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Bayangan halus di bawah */
+}
+  </style>
+</head>
+<body class="bg-pink-200">
+
+  <!-- Header -->
+  <nav class="flex items-center justify-between p-4 bg-pink-200 shadow-md fixed top-0 w-full z-10">
+    <button class="text-pink-700 hover:bg-pink-300 p-2 rounded-full">
+      <i class="fas fa-arrow-left"></i>
+    </button>
+    <h1 class="text-center text-lg font-semibold">Chat With Arsy</h1>
+    <button class="text-pink-700">
+      <i class="fas fa-ellipsis-v"></i>
+    </button>
+  </nav>
+  
+
+  <!-- Chat Content -->
+  <div class="chat-container">
+    <div class="chat-content flex-1 p-4" style="padding-top: 100px;">
+      <!-- Tempat untuk hasil pencarian akan ditambahkan oleh JavaScript -->
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="flex items-center p-4 bg-pink-300 shadow-md fixed bottom-0 w-full">
+    <input
+      class="flex-1 p-2 rounded-full border border-gray-300"
+      placeholder="Looking for a cheat sheet...."
+      type="text"
+      id="user-input"
+    />
+    <button class="ml-2 text-black font-bold" id="send-button">
+      <i class="fas fa-paper-plane mr-1"></i>
+    </button>
+  </div>
+  
+
+
+</body>
+</html>

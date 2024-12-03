@@ -1,0 +1,166 @@
+[
+  {
+    "soal": "Jika suatu siswa ingin membuat buku uang kas kelas untuk praktek mata pelajaran bahasa Indonesia dan menjalankan software Ms. Excel, langkah apa yang harus dilakukan untuk menjalankan Ms. Excel adalah…",
+    "jawaban": "Klik Windows - Excel - (+) Blank Workbook"
+  },
+  {
+    "soal": "Seorang siswa ingin membuat tabel di Ms. Word untuk laporan PKL, dalam Ms. Word fungsi Table terdapat di menu…",
+    "jawaban": "Insert"
+  },
+  {
+    "soal": "Dalam penerimaan PPDB SMK tahun pelajaran 2017 - 2018, terdapat peraturan bahwa peserta harus memiliki nilai rata-rata 90 di ijazah SMP untuk masuk sekolah favorit. Rumus mencari nilai rata-rata di Excel adalah…",
+    "jawaban": "Average"
+  },
+  {
+    "soal": "Fungsi di dalam Excel yang digunakan untuk menjumlahkan banyak data atau mencari total nilai dalam tabel disebut fungsi…",
+    "jawaban": "Sum"
+  },
+  {
+    "soal": "Fungsi untuk menggabungkan cell di Excel menggunakan fungsi…",
+    "jawaban": "Merge & Center"
+  },
+  {
+    "soal": "Langkah cepat menutup jendela Excel adalah…",
+    "jawaban": "Ctrl + F4"
+  },
+  {
+    "soal": "Langkah menambahkan nomor halaman di Ms. Word adalah…",
+    "jawaban": "Pergi ke Tab Insert, kemudian pilih Page Number"
+  },
+  {
+    "soal": "Rumus Excel untuk mencari nilai terbesar adalah…",
+    "jawaban": "Max"
+  },
+  {
+    "soal": "Rumus Excel untuk mencari nilai terkecil adalah…",
+    "jawaban": "Min"
+  },
+  {
+    "soal": "Rumus Excel untuk mencari rata-rata nilai adalah…",
+    "jawaban": "=Average()"
+  },
+  {
+    "soal": "Langkah meratakan teks di Ms. Word agar lebih rapi adalah…",
+    "jawaban": "Pilih Justify dari Tab Home"
+  },
+  {
+    "soal": "Langkah membuat tabel dengan 4 kolom dan 3 baris di Ms. Word adalah…",
+    "jawaban": "Pergi ke Tab Insert, lalu pilih Table > Insert Table"
+  },
+  {
+    "soal": "Urutan menu yang benar dalam Ms. Word adalah…",
+    "jawaban": "File - Home - Insert - Design - References – View – Help"
+  },
+  {
+    "soal": "Rumus untuk mencari nilai terbesar di antara 129, 99, dan 37 adalah…",
+    "jawaban": "=MAX(A1:A3)"
+  },
+  {
+    "soal": "Rumus untuk menjumlahkan nilai 1109, 909, dan 6900 adalah…",
+    "jawaban": "=SUM(A1:A3)"
+  },
+  {
+    "soal": "Rumus untuk mencari nilai rata-rata dari 1109, 909, dan 6900 adalah…",
+    "jawaban": "=AVERAGE(A1:A3)"
+  },
+  {
+    "soal": "Pengertian dari simbol *, /, +, -, ^ dalam Excel adalah…",
+    "jawaban": "Perkalian, Pembagian, Penjumlahan, Pengurangan, Pangkat"
+  },
+  {
+    "soal": "Rumus untuk mencari nilai terkecil dari 1109, 909, dan 6900 adalah…",
+    "jawaban": "=MIN(A1:A3)"
+  },
+  {
+    "soal": "Rumus untuk menghitung jumlah cell/kolom yang terisi adalah…",
+    "jawaban": "=COUNT(A1:A3:B1:B2)"
+  },
+  {
+    "soal": "Langkah menambahkan header di bagian atas dokumen di Ms. Word adalah…",
+    "jawaban": "Pergi ke Tab Insert, lalu pilih Header"
+  },
+  {
+    "soal": "Pengertian dari range adalah…",
+    "jawaban": "Sekumpulan cell yang dipilih atau dijadikan area untuk pengolahan data"
+  },
+  {
+    "soal": "Perangkat keras untuk mencetak dokumen adalah…",
+    "jawaban": "Printer"
+  },
+  {
+    "soal": "Software untuk mengedit foto adalah…",
+    "jawaban": "Adobe Photoshop"
+  },
+  {
+    "soal": "Software yang harus diinstal untuk melindungi komputer dari virus adalah…",
+    "jawaban": "Antivirus"
+  },
+  {
+    "soal": "Istilah untuk seseorang yang menulis dan memperbaiki kode program adalah…",
+    "jawaban": "Brainware"
+  },
+  {
+    "soal": "Perangkat keras untuk menyimpan data dalam kapasitas besar dan mudah dipindahkan adalah…",
+    "jawaban": "Flashdisk"
+  },
+  {
+    "soal": "Perangkat keras untuk memasukkan data berupa angka dan huruf adalah…",
+    "jawaban": "Keyboard"
+  },
+  {
+    "soal": "Sistem operasi yang sering digunakan pada komputer pribadi adalah…",
+    "jawaban": "Windows"
+  },
+  {
+    "soal": "Perangkat keras untuk keluaran suara adalah…",
+    "jawaban": "Speaker"
+  },
+  {
+    "soal": "Istilah untuk manusia yang mengoperasikan komputer adalah…",
+    "jawaban": "Brainware"
+  },
+  {
+    "soal": "Software untuk perhitungan dan analisis data adalah…",
+    "jawaban": "Microsoft Excel"
+  },
+  {
+    "soal": "Software untuk menggambar ilustrasi digital adalah…",
+    "jawaban": "Corel Draw"
+  },
+  {
+    "soal": "Hardware untuk menampilkan data dalam bentuk gambar adalah…",
+    "jawaban": "Monitor"
+  },
+  {
+    "soal": "Perangkat keras untuk memindai dokumen adalah…",
+    "jawaban": "Scanner"
+  },
+  {
+    "soal": "Komponen utama dalam sistem komputer adalah…",
+    "jawaban": "Software, Brainware, Hardware"
+  },
+  {
+    "soal": "Kepanjangan dari RAM adalah…",
+    "jawaban": "Random Access Memory"
+  },
+  {
+    "soal": "Definisi dari komputer adalah…",
+    "jawaban": "Sistem elektronik untuk memanipulasi data secara cepat dan tepat"
+  },
+  {
+    "soal": "Aspek tenaga pelaksana yang menjalankan sistem komputer adalah…",
+    "jawaban": "Brainware"
+  },
+  {
+    "soal": "Perangkat keras untuk mengalirkan arus listrik ke CPU adalah…",
+    "jawaban": "Power Supply"
+  },
+  {
+    "soal": "Langkah awal untuk memulai menggunakan komputer adalah…",
+    "jawaban": "Menekan tombol power CPU"
+  },
+  {
+    "soal": "Perangkat keras untuk mengubah gambar manual menjadi digital adalah…",
+    "jawaban": "Scanner"
+  }
+]

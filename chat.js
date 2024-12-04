@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Fungsi untuk mengambil data dari file JSON
   async function fetchData() {
-    const files = ["matematika.json", "k3lh.json", "jpn.json", "inf.json"];
+    const files = ["matematika.json", "k3lh.json", "jpn.json", "inf.json", "agama.json"];
     let allData = [];
     for (const file of files) {
       const response = await fetch(`./data/${file}`);
